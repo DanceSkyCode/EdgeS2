@@ -1,7 +1,7 @@
 absl-py==2.3.1
 addict==2.4.0
 batchgenerators==0.25.1
-causal-conv1d @ file:///media/mvp/Elements/shenchenghao/causal_conv1d-1.4.0%2Bcu118torch2.3cxx11abiFALSE-cp310-cp310-linux_x86_64.whl#sha256=a2433764743bfe4eac6630671ce7dfc7c18c006ff8c1e16359edf6df0a585c8e
+causal-conv1d @ causal_conv1d-1.4.0%2Bcu118torch2.3cxx11abiFALSE-cp310-cp310-linux_x86_64.whl#sha256=a2433764743bfe4eac6630671ce7dfc7c18c006ff8c1e16359edf6df0a585c8e
 certifi==2026.1.4
 charset-normalizer==3.4.4
 contourpy==1.3.2
@@ -22,7 +22,7 @@ joblib==1.5.3
 kiwisolver==1.4.9
 lazy_loader==0.4
 linecache2==1.0.0
-mamba-ssm @ file:///media/mvp/Elements/shenchenghao/mamba_ssm-2.2.2%2Bcu118torch2.3cxx11abiFALSE-cp310-cp310-linux_x86_64.whl#sha256=e746cbceb01bee548e93bf46a78e3c3333520ec1c369f3f2c95a1e51cf821264
+mamba-ssm @ mamba_ssm-2.2.2%2Bcu118torch2.3cxx11abiFALSE-cp310-cp310-linux_x86_64.whl#sha256=e746cbceb01bee548e93bf46a78e3c3333520ec1c369f3f2c95a1e51cf821264
 Markdown==3.10
 markdown-it-py==4.0.0
 MarkupSafe==2.1.5
